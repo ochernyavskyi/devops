@@ -1,2 +1,3 @@
 31.05.2021 - Started the DevOps course, leanrned different approaches of software development.
 01.06.2021 - Started to learn kubernetes. I've installed it, tried minikube and basic commands.
+02.06.2021 - Tryed to configure Amazon EKS and installed Ansible
