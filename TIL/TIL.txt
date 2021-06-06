@@ -3,3 +3,4 @@
 02.06.2021 - Tryed to configure Amazon EKS and installed Ansible
 03.06.2021 - Made some tests with ping module, tried to work with different AD-HOC commands
 04.06.2021 - Started to write playbook, tested the instalation of webserver via playbook, started to learn basic of python language
+05.06.2021 - Finished the studying of basis of python
