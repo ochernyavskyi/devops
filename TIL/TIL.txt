@@ -6,3 +6,7 @@
 05.06.2021 - Finished the studying of basis of python
 06.05.2021 - Learned how to deal with json and emoji at flask
 07.06.2021 - Finished to develop flask program
+08.06.2021 - Learned ansible-vault
+09.06.2021 - Leraned new modules of ansible
+10.06.2021 - Learned how to run flask at ssl mode
+11.06.2021 - Finished the task 1 with ansible assignment

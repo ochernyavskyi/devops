@@ -1,0 +1,4 @@
+ssh_user: user
+ssh_password: your_password
+my_password: your_sudo_password
+
