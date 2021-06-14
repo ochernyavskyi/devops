@@ -12,3 +12,4 @@
 11.06.2021 - Finished the task 1 with ansible assignment
 12.06.2021 - Wrote 1st bash script, learned some tricks regarding bash
 13.06.2021 - Had fun at wedding, learned, that U have to rest sometimes to be at good mood
+14.06.2021 - Today I learn the tips how to making right commits, hope I will do this forever. Also start to investigate golang
