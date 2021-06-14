@@ -5,4 +5,5 @@ U can find the following data at this repository:
   <li>short CV ("AboutMe" folder)</li>
   <li>daily tweets ("TIL" folder)</li>
   <li>ansible playbook example with integrating flask and python ("task1" folder)</li>
+  <li>bash script with netstat and whois functionality ("task2" folder)</li>
   </ul>
