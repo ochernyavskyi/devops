@@ -35,6 +35,8 @@ func main() {
 		if update.Message.IsCommand() {
 			msg := tgbotapi.NewMessage(update.Message.Chat.ID, "")
 			switch cmd := update.Message.Command(); {
+			case cmd == "start":
+            			msg.Text = "Please type /help - to see all available commands"
 			case cmd == "help":
 				msg.ParseMode = "html"
 				msg.Text = "The commands of this bot are following:\n /homerep - display home repository\n /tasks - display the list of all tasks\n /task# - (# is a number of task) will give U the link for this task."
