@@ -1,4 +1,4 @@
-<h1>Telegram bot<h1>
+<h1>Telegram bot</h1>
 <p>Hi everyone, in this folder U can find the code of telegram bot who is dealing with github.
 <p>All U need to change in the code - it's bot token.
 <p>The functionality of bot is following:
