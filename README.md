@@ -6,4 +6,5 @@ U can find the following data at this repository:
   <li>daily tweets ("TIL" folder)</li>
   <li>ansible playbook example with integrating flask and python ("task1" folder)</li>
   <li>bash script with netstat and whois functionality ("task2" folder)</li>
+  <li>telegram bot ("task3" folder)</li>
   </ul>

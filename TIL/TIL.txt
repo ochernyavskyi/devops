@@ -16,3 +16,6 @@
 15.06.2021 - I learned somehow how to deal with github api and jq, almost finished homework 4
 16.06.2021 - Learned api of github and basis of golang
 17.06.2021 - Write draft telegram bot, which is working somehow:)
+18.06.2021 - finished to write telegram bot
+19.06.2021 - learned the information concerning docker
+20.06.2021 - learned the information concerning docker hub
