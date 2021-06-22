@@ -1,5 +1,17 @@
 #!/bin/bash
 
+# check jq
+if [[ -z "$(which jq)" ]]; then
+    echo "Package jq not installed. Please install jq and try again"
+    exit
+fi
+
+# check curl
+if [[ -z "$(which curl)" ]]; then
+    echo "Package curl not installed. Please install curl and try again"
+    exit
+fi
+
 echo "This is script which will deal with github API"
 read -p "Enter the github url (example: https://github.com/testuser/myrep: " input_data
 input_data=${input_data,,}
