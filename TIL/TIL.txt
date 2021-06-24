@@ -19,3 +19,7 @@
 18.06.2021 - finished to write telegram bot
 19.06.2021 - learned the information concerning docker
 20.06.2021 - learned the information concerning docker hub
+21.06.2021 - learned how to deal with pyinstaller and resolve dependency problem
+22.06.2021 - learned how to make multi stage building at docker
+23.06.2021 - finished the task 5 with docker
+24.06.2021 - learned the basis of terraform
