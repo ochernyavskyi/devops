@@ -23,3 +23,6 @@
 22.06.2021 - learned how to make multi stage building at docker
 23.06.2021 - finished the task 5 with docker
 24.06.2021 - learned the basis of terraform
+25.06.2021 - learned IAM
+26.06.2021 - learned  terraform user_data
+27.06.2021 - practised with Terraform

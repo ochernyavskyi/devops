@@ -9,8 +9,8 @@ import (
 
 func main() {
 	bot, err := tgbotapi.NewBotAPI("Your bot token")
-	tasks := [...]string{"Ansible assignment", "Bash script", "Telegram bot", "Bash script with github API"}
-	links := [...]string{"https://github.com/ochernyavskyi/devops/tree/master/task1", "https://github.com/ochernyavskyi/devops/tree/master/task2", "https://github.com/ochernyavskyi/devops/tree/master/task3", "https://github.com/ochernyavskyi/devops/tree/master/task4"}
+	tasks := [...]string{"Ansible assignment", "Bash script", "Telegram bot", "Bash script with github API", "Docker task"}
+	links := [...]string{"https://github.com/ochernyavskyi/devops/tree/master/task1", "https://github.com/ochernyavskyi/devops/tree/master/task2", "https://github.com/ochernyavskyi/devops/tree/master/task3", "https://github.com/ochernyavskyi/devops/tree/master/task4", "https://github.com/ochernyavskyi/devops/tree/master/task5"}
 	var commandPat = regexp.MustCompile(`^task[0-9]`)
 
 	if err != nil {
