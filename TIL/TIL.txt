@@ -26,3 +26,13 @@
 25.06.2021 - learned IAM
 26.06.2021 - learned  terraform user_data
 27.06.2021 - practised with Terraform
+28.06.2021 - learned internet gateway, nat at aws
+29.06.2021 - learned load balancer
+30.06.2021 - learned ACL
+01.07.2021 - learned VPC  basics
+02.07.2021 - learned elastic ip
+03.07.2021 - learned data at Terraform
+04.07.2021 - learned Security Group
+05.07.2021 - learned outputs at Terraform
+06.07.2021 - made high stability server at Terraform
+07.07.2021 - learned launch configuration at Terraform
