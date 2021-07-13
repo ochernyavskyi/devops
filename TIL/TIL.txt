@@ -36,3 +36,7 @@
 05.07.2021 - learned outputs at Terraform
 06.07.2021 - made high stability server at Terraform
 07.07.2021 - learned launch configuration at Terraform
+08.07.2021 - learned target groups
+09.07.2021 - trying to find the bug at Terraform code
+10.07.2021 - finished to do task of terraform
+11.07.2021 - learned aws cli
