@@ -6,5 +6,5 @@ variable "region" {
 variable "sg_ports" {
   description = "Default sg ports for http and https"
   type = list(number)
-  default = [80, 443]
+  default = [22, 80]
 }

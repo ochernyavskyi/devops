@@ -19,6 +19,26 @@ resource "aws_default_network_acl" "main" {
     to_port    = 80
   }
 
+  ingress {
+    protocol   = "tcp"
+    rule_no    = 106
+    action     = "allow"
+    cidr_block = "0.0.0.0/0"
+    from_port  = 22
+    to_port    = 22
+  }
+
+
+  egress {
+    protocol   = "tcp"
+    rule_no    = 107
+    action     = "allow"
+    cidr_block = "0.0.0.0/0"
+    from_port  = 22
+    to_port    = 22
+  }
+
+
   egress {
     protocol   = "tcp"
     rule_no    = 103
@@ -36,6 +56,26 @@ resource "aws_default_network_acl" "main" {
     from_port  = 443
     to_port    = 443
   }
+
+  egress {
+    protocol   = "tcp"
+    rule_no    = 105
+    action     = "allow"
+    cidr_block = "0.0.0.0/0"
+    from_port  = 1025
+    to_port    = 65535
+  }
+
+  ingress {
+    protocol   = "tcp"
+    rule_no    = 108
+    action     = "allow"
+    cidr_block = "0.0.0.0/0"
+    from_port  = 1025
+    to_port    = 65535
+  }
+
+
 
   tags = {
     Name = "allow http & https traffic"

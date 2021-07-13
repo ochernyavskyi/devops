@@ -2,7 +2,7 @@ resource "aws_lb" "web" {
   name               = "mainLB"
   internal           = false
   load_balancer_type = "application"
-//  security_groups    = [aws_security_group.lb_sg.id]
+  security_groups    = [aws_security_group.allow_http_https.id]
   subnets            = [aws_subnet.host1-public.id, aws_subnet.host2-public.id]
 
   tags = {
