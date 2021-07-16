@@ -40,3 +40,8 @@
 09.07.2021 - trying to find the bug at Terraform code
 10.07.2021 - finished to do task of terraform
 11.07.2021 - learned aws cli
+12.07.2021 - learned EBS snapshots
+13.07.2021 - finished to do aws cli task
+14.07.2021 - learned basic of DB
+15.07.2021 - learned blue green deployment
+16.07.2021 - have a lot of another work
